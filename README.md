@@ -42,7 +42,4 @@ Welcome to the **Airbnb 2016 USA Visualization**! This Tableau dashboard provide
 
 ![Airbnb Dashboard Preview](images/AIRBNB.png)  
 
----
-
-🔹 **Note:** Replace `"image-link-here"` with the actual URL or local path of the image. If you're hosting this on GitHub, you can upload the image to the repository and use its direct URL.  
 
