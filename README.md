@@ -40,7 +40,7 @@ Welcome to the **Airbnb 2016 USA Visualization**! This Tableau dashboard provide
 
 ## 🖼 Preview  
 
-![Airbnb Dashboard Preview](image-link-here)  
+![Airbnb Dashboard Preview](images/AIRBNB.png)  
 
 ---
 
